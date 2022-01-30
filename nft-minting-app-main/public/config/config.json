@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x120b7a7EFAeE09ff14743A603bf7397029e335A8",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x120b7a7EFAeE09ff14743A603bf7397029e335A8",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "The Culturecom NFT",
+  "SYMBOL": "ExNFT",
+  "MAX_SUPPLY": 8,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/culturecom-nft-v2",
+  "SHOW_BACKGROUND": true
+}
